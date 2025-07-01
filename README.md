@@ -8,13 +8,13 @@
 
 - 🔍 I'm currently working as a Machine Learning Engineer and focused on deep learning projects.
 - 📚 Enthusiastic about staying updated with the latest advancements in AI and ML.
-- 🌱 Currently exploring **Object Detection**, **NLP** and **Self-Supervised Learning**.
+- 🌱 Currently working on **Computer Vision** and **vLLM**.
 
 ## 🔧 Skills & Tools
 
-- **Languages**: Python, SQL
-- **ML Frameworks**: TensorFlow, PyTorch, Scikit-Learn, OpenCV, Transformers
-- **Development**: Flask, FastAPI, Git
+- **Languages**: Python, SQL, C#, CUDA
+- **ML Frameworks**: PyTorch, Scikit-Learn, OpenCV, TensorFlow, Transformers
+- **Development**: Flask, FastAPI, Git, Django, Streamlit
 
 ## 💼 Projects
 
